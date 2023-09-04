@@ -1,13 +1,13 @@
 # keyloger_project by Ravi_shankar_lawaniya
 
-Creating a keylogger in Python to record keystrokes surreptitiously is potentially illegal and unethical. However, for educational purposes, here's a brief outline of how it's done:
+A keylogger is software or hardware that secretly records keystrokes on a computer. Creating a basic Python keylogger involves: 
 
-Module Import: Import the pynput module to monitor keyboard input.
+1. Import Modules: Import the pynput module to monitor keyboards.
 
-Listener Creation: Use pynput.keyboard to create a listener, triggering a callback function for each key press.
+2. Listener: Use pynput.keyboard to create a listener with a callback for key presses.
 
-Capture and Storage: In the callback, capture keystrokes and store them, possibly with timestamps and additional context.
+3. Capture and Store: In the callback, capture and store keys, possibly with timestamps and context.
 
-Execution: Start the listener to record keystrokes, optionally running it in the background or hidden.
+4. Run Keylogger: Start the listener, potentially as a hidden background process.
 
-Advanced Features (optional): Add features like email sending or data encryption for security.
+5. Optional Enhancements: Add features like email sending or data encryption.
