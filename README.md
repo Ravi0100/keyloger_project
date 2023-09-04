@@ -1,4 +1,4 @@
-# keyloger_project by Ravi_shankar_lawaniya
+# keylogger_project by Ravi_shankar_lawaniya
 
 Creating a keylogger in Python to record keystrokes surreptitiously is potentially illegal and unethical. However, for educational purposes, here's a brief outline of how it's done:
 
